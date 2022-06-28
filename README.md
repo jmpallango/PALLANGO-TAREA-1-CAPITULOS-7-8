@@ -27,7 +27,7 @@ Jueves 30 de junio de 2022
 
 Objetivo General:
 
-• Comprender las diferentes resistencias en un circuito ya sean en serie o paralelos, incluyendo el calculo de la ley de Ohm y las diferentes aplicaciones que poseen la ley de la corriente de Kirchhoff.
+• Comprender la manera de indentificar y analizar el esquema de un circuito ya sean en serie o paralelos, incluyendo el efecto de voltajes, localizacion de fallas en el circuito y los diferentes teoremas que son aplicadas.
 
 Objetivo Especifico:
 
