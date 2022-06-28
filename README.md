@@ -27,13 +27,13 @@ Jueves 30 de junio de 2022
 
 Objetivo General:
 
-• Comprender la manera de indentificar y analizar el esquema de un circuito ya sean en serie o paralelos, incluyendo el efecto de voltajes, localizacion de fallas en el circuito y los diferentes teoremas que son aplicadas.
+• Comprender la manera de indentificar y analizar el esquema de un circuito ya sean en serie o paralelos, incluyendo el efecto de voltajes, localizacion de fallas en el circuito y los diferentes teoremas que son aplicadas en los capitulos 7 y 8.
 
 Objetivo Especifico:
 
-• Comprender la ley de Ohm y como calcular las diferentes corrientes y voltajes de las resistencias y asi identificar fallas del circuito.
+• Analizar el esquema de un circuito en paralelo o en serie, con su respectivo voltaje o carga y así identificar fallas del circuito expresado en el capitulo 7.
 
-• Analizar la energia y potencia que son utilizadas al momento de ser aplicado en los circuitos y el tipo de herramientas que son utilizadas para su respectiva medición.
+• comprender los diferentes teoremas del capitulo 8 que se aplican en un circuito y las caracteristicas de una fuente de corriente y voltaje. 
 
 # MARCO TEORICO:
 
