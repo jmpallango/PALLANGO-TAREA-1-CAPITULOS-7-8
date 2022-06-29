@@ -53,6 +53,16 @@ Capitulo 7:
 ![image](https://user-images.githubusercontent.com/105695077/176355232-8e876bfa-19a4-4f29-b789-3d622c454699.png)
 ![image](https://user-images.githubusercontent.com/105695077/176355257-d1862517-f3ba-458a-ba06-e37146bbae49.png)
 ![image](https://user-images.githubusercontent.com/105695077/176355278-15c01e10-f11c-4e3f-b7de-5d81a805bfcc.png)
+![image](https://user-images.githubusercontent.com/105695077/176355424-f1b662a7-dfe7-4d18-bd1f-0e03cb9e29fb.png)
+![image](https://user-images.githubusercontent.com/105695077/176355452-6a1f8655-22b3-4ebd-b935-96dc0420355f.png)
+![image](https://user-images.githubusercontent.com/105695077/176355478-11ec2c66-32da-4c4d-9fa8-69c268b12c15.png)
+![image](https://user-images.githubusercontent.com/105695077/176355511-b03fd20b-336c-46cb-ad92-5170ec1c08ed.png)
+![image](https://user-images.githubusercontent.com/105695077/176355547-13a2fcc9-94a3-4a52-b567-85df514df000.png)
+![image](https://user-images.githubusercontent.com/105695077/176355584-a1ad10d2-ed8c-4e06-a561-64f0ddf882e6.png)
+![image](https://user-images.githubusercontent.com/105695077/176355612-8cd941c0-ff82-4baa-ab83-c8ddbbda9529.png)
+![image](https://user-images.githubusercontent.com/105695077/176355651-9ccfe6dc-9a32-49c2-b823-01dc25ec0905.png)
+![image](https://user-images.githubusercontent.com/105695077/176355690-53c15dc5-990c-48ac-ac19-c0af18f5c8d0.png)
+![image](https://user-images.githubusercontent.com/105695077/176355741-5222bb9f-c7c6-4ced-9b35-14ece6388cda.png)
 
 Capitulo 8:
 
