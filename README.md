@@ -63,6 +63,12 @@ Capitulo 7:
 ![image](https://user-images.githubusercontent.com/105695077/176355651-9ccfe6dc-9a32-49c2-b823-01dc25ec0905.png)
 ![image](https://user-images.githubusercontent.com/105695077/176355690-53c15dc5-990c-48ac-ac19-c0af18f5c8d0.png)
 ![image](https://user-images.githubusercontent.com/105695077/176355741-5222bb9f-c7c6-4ced-9b35-14ece6388cda.png)
+![image](https://user-images.githubusercontent.com/105695077/176355891-89aaa22f-4415-4b1f-ac00-4c3be0672536.png)
+![image](https://user-images.githubusercontent.com/105695077/176355924-69af4e99-4902-4a33-b711-ccf3cb7ca9fd.png)
+![image](https://user-images.githubusercontent.com/105695077/176355945-67f363ca-1245-44e3-89d4-4c181a2515af.png)
+![image](https://user-images.githubusercontent.com/105695077/176355979-52d6b204-f374-4ec4-9b8d-b6df2e798d05.png)
+![image](https://user-images.githubusercontent.com/105695077/176356000-d73611e0-31de-4299-9c0c-c4424309f514.png)
+![image](https://user-images.githubusercontent.com/105695077/176356032-d3d54a76-4b30-4d16-9a6a-49846aed1bc9.png)
 
 Capitulo 8:
 
