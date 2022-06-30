@@ -101,7 +101,13 @@ Capitulo 8:
 ![image](https://user-images.githubusercontent.com/105695077/176718794-ff1b210c-1089-4ffb-b0be-04f9194a0129.png)
 ![image](https://user-images.githubusercontent.com/105695077/176718860-f6facff2-5547-4f65-9ce0-e45bae5f4734.png)
 ![image](https://user-images.githubusercontent.com/105695077/176718894-be178d23-d9fa-4089-bc48-8595829ea620.png)
-
+![image](https://user-images.githubusercontent.com/105695077/176720226-9561030a-4063-44a5-8f66-e30c6fcf5413.png)
+![image](https://user-images.githubusercontent.com/105695077/176720290-9484cd3f-17da-4a72-b2c0-17920553d6f7.png)
+![image](https://user-images.githubusercontent.com/105695077/176720343-90dbb477-817d-49ea-8f68-dc2ac332ce74.png)
+![image](https://user-images.githubusercontent.com/105695077/176720394-f8a8d7a6-6ab8-41a0-8075-76032387824c.png)
+![image](https://user-images.githubusercontent.com/105695077/176720462-56be0ac6-b283-47f0-885e-7a12d7d358d6.png)
+![image](https://user-images.githubusercontent.com/105695077/176720513-547a0840-d7dc-4aca-a786-40e34de435d7.png)
+![image](https://user-images.githubusercontent.com/105695077/176720584-33fecdfa-175c-48a0-ba70-4c147294de9e.png)
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
