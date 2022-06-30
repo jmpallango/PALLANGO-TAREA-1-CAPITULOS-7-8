@@ -291,12 +291,40 @@ Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Th
 ![image](https://user-images.githubusercontent.com/105695077/176735097-8ba00684-0b55-464b-95a1-14acaeba6b6e.png)
 
 Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/105695077/176735686-fedceaa3-86d3-433c-98e3-d8d1787b413b.png)
+![image](https://user-images.githubusercontent.com/105695077/176735698-df3e4dd9-7801-41bf-b005-1bf729b582ad.png)
 
+Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77
+![image](https://user-images.githubusercontent.com/105695077/176735747-cd012edd-46e7-4e5f-a092-8f458138bfdb.png)
+![image](https://user-images.githubusercontent.com/105695077/176735772-7848f200-74cf-49f3-a17a-e91b396feb31.png)
+
+Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8 = 8 kΩ.
+![image](https://user-images.githubusercontent.com/105695077/176735863-4fa99f9f-3afd-439e-bc66-af8f11716189.png)
+![image](https://user-images.githubusercontent.com/105695077/176735898-49bba1b4-c8ca-4691-a07c-dfc992796975.png)
+
+En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton
+![image](https://user-images.githubusercontent.com/105695077/176735965-53ed5fea-4909-4dae-8d05-3ed1c2c9f7b1.png)
+![image](https://user-images.githubusercontent.com/105695077/176735994-eac7b697-ca87-4c56-bca8-7620435c17c9.png)
+
+En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
+![image](https://user-images.githubusercontent.com/105695077/176736049-e90d9e45-849d-48a3-82ea-9b5cb843f1ec.png)
+![image](https://user-images.githubusercontent.com/105695077/176736067-f5a391c2-0e6a-4a94-8b72-62237217e7a7.png)
+
+¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
+![image](https://user-images.githubusercontent.com/105695077/176736128-3e2fc4f4-6739-498f-b56a-6d103c45f8c2.png)
+![image](https://user-images.githubusercontent.com/105695077/176736153-fae8301a-fae2-4dbb-8d11-7aae4a3d1482.png)
+
+En la figura 8-88, convierta cada red delta en una red Y.
+![image](https://user-images.githubusercontent.com/105695077/176736200-01a4c1a9-a888-4620-89c8-6dbb746dd042.png)
+![image](https://user-images.githubusercontent.com/105695077/176736209-0f2d4432-fab3-4655-ab13-9d113164d749.png)
+
+Determine todas las corrientes que circulan en el circuito de la figura 8-90
+![image](https://user-images.githubusercontent.com/105695077/176736277-79d7a56a-10f0-4a8f-9832-c4bd26eb3aa5.png)
+![image](https://user-images.githubusercontent.com/105695077/176736299-43daab97-4f91-4ec2-9053-eabb02531a39.png)
 
 # VIDEO:
 
-
+https://www.youtube.com/watch?v=TxSEMkU5CS8
 
 # CONCLUSIONES:
 . Para un correcto manejo de las leyes hay que entender como funciona las diferentes formulas y como leer el tipo de medida utilizada para la energia de los circuitos.
