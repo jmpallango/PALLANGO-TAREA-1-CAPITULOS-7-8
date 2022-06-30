@@ -265,59 +265,34 @@ C. La característica de resistencia según la temperatura del termistor se mues
 Capitulo 8:
 
 Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes
-image
+![image](https://user-images.githubusercontent.com/105695077/176734285-a8c47f7c-0898-489b-86fb-2975c6d8ada3.png)
 
 Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3
-image
+![image](https://user-images.githubusercontent.com/105695077/176734322-a448578b-74f1-4003-bb69-9e56658972d3.png)
 
 Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
-image
+![image](https://user-images.githubusercontent.com/105695077/176734405-5451a37d-1053-43f6-b6fa-96c0361281c2.png)
 
 Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor
-image
+![image](https://user-images.githubusercontent.com/105695077/176734446-807d6dba-a086-4410-a6c1-895f225e911a.png)
 
-image image image image image image
+![image](https://user-images.githubusercontent.com/105695077/176734855-3d6d1752-cb6f-4f1c-aed6-d1ca9161a3f8.png)
+![image](https://user-images.githubusercontent.com/105695077/176734888-e34aab20-f533-4032-b0fa-307838db415a.png)
 
-Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B. image
-image
+Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B.
+![image](https://user-images.githubusercontent.com/105695077/176734930-b808d32a-11f8-454c-b21f-4086da328235.png)
+![image](https://user-images.githubusercontent.com/105695077/176734948-6eee046c-4b2f-4d95-9bdc-f8f65d27d8a9.png)
 
-Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78. image image image image
-image image image
+ Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78.
+ ![image](https://user-images.githubusercontent.com/105695077/176735000-8a05de04-b6ae-4697-9510-9cec92f12843.png)
+![image](https://user-images.githubusercontent.com/105695077/176735029-ada0144b-48e4-4b39-ba49-570f16905d9d.png)
 
-Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80. image
-image
-
-image image image
+20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80.
+![image](https://user-images.githubusercontent.com/105695077/176735097-8ba00684-0b55-464b-95a1-14acaeba6b6e.png)
 
 Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
-image image
+![Uploading image.png…]()
 
-Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77
-image
-
-image image
-
-image image
-
-Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8 = 8 kΩ.
-image
-
-image 28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton. image
-
-image image
-
-En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
-image
-
-image
-
-¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
-image 
-
-En la figura 8-88, convierta cada red delta en una red Y. 
-image
-
-Determine todas las corrientes que circulan en el circuito de la figura 8-90
 
 # VIDEO:
 
