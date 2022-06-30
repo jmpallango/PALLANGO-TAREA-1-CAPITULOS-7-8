@@ -264,6 +264,61 @@ C. La característica de resistencia según la temperatura del termistor se mues
 
 Capitulo 8:
 
+Convierta las fuentes de voltaje prácticas de la figura 8-67 en fuentes de corriente equivalentes
+image
+
+Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3
+image
+
+Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
+image
+
+Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente a través de R4 después del cierre de cada interruptor
+image
+
+image image image image image image
+
+Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Thevenin como se ve desde las terminales A y B. image
+image
+
+Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78. image image image image
+image image image
+
+Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80. image
+image
+
+image image image
+
+Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
+image image
+
+Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura 8-77
+image
+
+image image
+
+image image
+
+Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando R8 = 8 kΩ.
+image
+
+image 28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton. image
+
+image image
+
+En cada circuito mostrado en la figura 8-85, se tiene que transferir potencia máxima a la carga RL. Determine el valor apropiado de RL en cada caso.
+image
+
+image
+
+¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia de potencia máxima en el circuito de la figura 8-86?
+image 
+
+En la figura 8-88, convierta cada red delta en una red Y. 
+image
+
+Determine todas las corrientes que circulan en el circuito de la figura 8-90
+
 # VIDEO:
 
 
