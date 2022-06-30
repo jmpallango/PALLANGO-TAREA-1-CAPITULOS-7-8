@@ -72,6 +72,9 @@ Capitulo 7:
 
 Capitulo 8:
 
+![image](https://user-images.githubusercontent.com/105695077/176717143-2bc8341d-f110-4c07-b886-d7e963dc7690.png)
+
+
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
 Capitulo 7:
