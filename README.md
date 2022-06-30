@@ -112,97 +112,155 @@ Capitulo 8:
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
 Capitulo 7:
-2. Visualice y trace los siguientes circuitos en serie-paralelo:
-(a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
-(b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
-![image](https://user-images.githubusercontent.com/105695077/176728872-7931be9a-0add-4531-9a71-12da7fca7f57.png)
 
 4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores vistas desde la fuente.
 ![image](https://user-images.githubusercontent.com/105695077/176729524-c0f88144-8b3c-4d60-8546-ae3eed316b29.png)
 
-6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura 7-65, y marque los valores de resistor
-![image](https://user-images.githubusercontent.com/105695077/176729645-08707eb5-55a3-430b-8923-e3f8d69a137b.png)
+![image](https://user-images.githubusercontent.com/105695077/176732104-a8e9c168-bcb2-4b04-b2dd-a4f664dd7c69.png)
 
-8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Æ. Uno de
-los resistores es de 1.0 kÆ. ¿Cuál es el otro resistor?
 
 10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
 ![image](https://user-images.githubusercontent.com/105695077/176729804-7b6df9d4-b0e0-4190-a43b-811c55435b37.png)
+
+![image](https://user-images.githubusercontent.com/105695077/176732197-3334c4d9-cebb-4cb0-b39a-1d6a46940e28.png)
+![image](https://user-images.githubusercontent.com/105695077/176732244-25ad6c10-28a3-4336-9c9a-e9fd3cde0360.png)
 
 12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada
 caída de voltaje.
 ![image](https://user-images.githubusercontent.com/105695077/176729804-7b6df9d4-b0e0-4190-a43b-811c55435b37.png)
 
+![image](https://user-images.githubusercontent.com/105695077/176732267-3083cfab-aca4-4f92-87e8-91699fac7cba.png)
+
 14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente
 ![image](https://user-images.githubusercontent.com/105695077/176730048-25098e00-8233-4e0f-9ee8-b2a0ece887f7.png)
+
+![image](https://user-images.githubusercontent.com/105695077/176732309-50b1c35d-e59b-4e16-8d0c-ee0cf83b200d.png)
+![image](https://user-images.githubusercontent.com/105695077/176732349-e9f1e93b-0855-44ef-b933-2d1910aa788a.png)
 
 16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68
 ![image](https://user-images.githubusercontent.com/105695077/176730111-6ac64acd-c12d-4d0f-8a6e-75a10fa12fcf.png)
 
-18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje
-![image](https://user-images.githubusercontent.com/105695077/176730194-7c0cd11f-8cb7-4572-a797-2cd4d703aa5b.png)
-
-20. Determine el voltaje, VAB, en la figura 7-69. 
-![image](https://user-images.githubusercontent.com/105695077/176730272-c1df83fb-7434-447d-87d5-8646cbb10a19.png)
-
-* 22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC,
-RAD, RAE, RAF, y RAG)
-![image](https://user-images.githubusercontent.com/105695077/176730367-7b6156f9-aac2-4c70-8485-7fe66f659128.png)
+![image](https://user-images.githubusercontent.com/105695077/176732379-8952ed16-f219-4323-ba1f-09e5e75dc75b.png)
 
 * 24. Determine el valor de cada resistor mostrado en la figura 7-73.
 ![image](https://user-images.githubusercontent.com/105695077/176730422-70cc6b0a-75a6-4ff1-866d-8a67aa10287f.png)
 
+V2=V5-V6=5V-1V = 4V
+
+I2= I5 = 2W/4V = 0.5 A
+
+I5= I8-I6 = 1 A -0.5 A = 0.5 A
+
+I1=I2+I5+I4 = 0.5 A +0.5 A +1 A = 2 A
+
+I3= IT -I1 = 4 A – 2 A = 2 A
+
+V7 = Vs -V3 = 40V -20V =20V
+
+V1 = 20W/2 A = 10V
+
+V4= V3-V1 = 10V
+
+V8 = V4 – V5 = 5V
+
+R1= 10/2 = 5Ω
+
+R2 = 4/0.5 = 8Ω
+
+R3 = 20/2 = 10 Ω
+
+R4= 10/1 = 10 Ω
+
+R5= 5/0.5 = 10 Ω
+
+R6= 1/0.5 = 2 Ω
+
+R7= 20/4 =5 Ω
+
+R8= 5/1 = 5 Ω
+
 26. La salida de una batería de 12 V se divide para obtener dos voltajes de salida. Se utilizan tres resistores de 3.3 kÆ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga
 de 10 kÆ a la más alta de las salidas, ¿cuál será su valor con carga?
+
+VA=(6.6)/(9.9)*12 = 8V VB= (3.3)/(9.9)*12 = 4 Con los 10 K Ω RAB = (6.6)(10)/(6.6)+(10)= 3.98 K Ω VA = 3.98/7.28 *12 = 6.56V
 
 28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga
 de 100 kÆ conectada de A a B, ¿cuál es el voltaje de salida?
 ![image](https://user-images.githubusercontent.com/105695077/176730594-9ed9bf77-9b6a-4420-8b98-2aa5f0cec976.png)
 
+RT= 10 + 5.6 + 2.7 = 18.3 K Ω
+
+V salida = (R2+R3) /(R1+R2+R3)Vs = 8.3/18.322= 9.98
+
+Con 100K Ω
+
+RT= R1 + (R2+R3)RL//R2+R3+RL = 10K Ω + 8.3* 100/108.3 = 17.7 K Ω
+
+V salida = 7.7/17.7 *22 = 9.57 V
+
 30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de
 salida. Con una carga de 33 kÆ, ¿cuál es la corriente extraída?
 ![image](https://user-images.githubusercontent.com/105695077/176730603-09f925bc-dbc4-4010-af9e-3fdeed4f8e3e.png)
+
+RT= 10 + 5.6 + 2.7 = 18.3
+
+I= 22/18.3 = 1.2 mA
+
+RT= 10+ 8.3*33/8.3+33 = 16.6 K Ω
+
+I= 22/16.6 = 1.33 mA
 
 32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje
 en cada toma (V1, V2 y V3) para cada posición del interruptor.
 ![image](https://user-images.githubusercontent.com/105695077/176730683-9fdd0913-f0e4-4c40-aa1c-95b93f0d6553.png)
 
+Posición 1 RT = 10+30 68= 10 +20.82= 30.8 K Ω V1= (20.8/30.8)*120 = 81.0V V2= (20/30)*81 = 54.0V V3=(10/30)81 = 27.0V Posición 2 RT= 20 + 20 68= 20+15.5 = 35.5 K Ω V1= (10+15.5) /35.5120 = 86.2V V2= (15.5/35.5) *81 = 52.4V V3= (10/20) *52.4 = 26.2V Posición 3 RT= 30+10 68= 30+8.72 = 38.7 V1= (20+8.72) /38.7 120 = 89.0 V V2= (10+8.72) /38.781 = 58.0 V V3= (8.72/38.7) *81= 27.0V
+
 *34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los
 extremos de una carga de 1.0 kÆ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no
 debe exceder de 100 mA.
+
+Imax = 100 mA RT= 24/100 = 240 Ω (R2/RT)24V = 6V 24R2 = 6RT R2 = 6(240)/24 = 60 Ω R1 = 240 -60 = 180 Ω RL = 60 Ω 1000 Ω = 56.6 Ω V salida = 56.6/180+56.6 *24 = 5.74V
 
 36. Determine la resistencia interna de un voltímetro de 20,000 Æ/V en cada uno de los siguientes ajustes
 de intervalo.
 (a) 0.5 V (b) 1 V (c) 5 V (d) 50 V (e) 100 V (f) 1000 V
 
-38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito de la figura 7-62(b).
-![image](https://user-images.githubusercontent.com/105695077/176730909-2a6a4aac-6fb4-494c-b532-2bcf2a30a106.png)
+VR4= (R2||R3||R4)/(R2||R3||R4+R1) 3V = (99.4 Ω/779.4 Ω)3V = 0.383 V a) Usando 0.5 v el rango es 0.383 V b) R = 20,000 Ω/V *0.5V = 10K Ω 99.4 Ω|| 10 K Ω= 98.4 Ω VR4 = (98.4 Ω/778.4 Ω)3V = 0.379V 0.383V – 0.379 V = 0.004 V 
 
 40. Determine la resistencia total y el voltaje en los nodos A, B y C de la red en escalera mostrada en la figura 7-78.
+
 ![image](https://user-images.githubusercontent.com/105695077/176731018-d63210d0-05c0-43fa-90c0-f7b64728aa87.png)
+RT = 6.66 VA = (1.06)/6.66 *18 = 2.86 V VB = (1.05)/2.05 2.86 = 1.47V VC= ½1.47 = 735 mV
 
 42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
 ![image](https://user-images.githubusercontent.com/105695077/176731149-f527d760-3088-42a6-ab86-f33959a0ecff.png)
 
-44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones:
-(a) Interruptor SW2 conectado a 12 V y los demás conectados a tierra
-(b) Interruptor SW1 conectado a 12 V y los demás conectados a tierra
-![image](https://user-images.githubusercontent.com/105695077/176731216-910fa2fe-5c02-4316-a708-d8642ab66ae0.png)
+V1 = ITR1 = 16.1 100 = 1.61V V2 = I2R2 = 8.27 820 = 6.78 V V3 =I3R3 = 7.84220 = 1.73V V4= I4R4 = 4.06820 = 3.33V V5 = I5R5 = 3.78100 = 0.378V V6 = I6R6 = 3.78680 = 2.57 V V7= I7R7 = 3.78 * 100 = 0.378 V V8 = I8R8 = 7.84*220 = 1.73 V V9 = I9R9 = 16.1 * 100 = 1.61 V 44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones: (a) Interruptor SW2 conectado a 12 V y los demás conectados a tierra Vsalida = v/8 = 12V/8 = 1.5V (b) Interruptor SW1 conectado a 12 V y los demás conectados a tierra Vsalida = V/16 = 12V/16 = 0.75V
 
 46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente en equilibrio se establecen como sigue: RV  18 kÆ y R2/R4  0.02. ¿Cuál es RX?
+
 
 48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura de 60o
 C. La característica de resistencia según la temperatura del termistor se muestra en la figura 7-60.
 ![image](https://user-images.githubusercontent.com/105695077/176731429-29666253-ba53-4e18-8cf9-bbefc1ee1d70.png)
 
+![image](https://user-images.githubusercontent.com/105695077/176733399-6a8652dc-942a-4880-bb68-2976874e9e8a.png)
+
 50. ¿Son correctas las lecturas del medidor mostrado en la figura 7-85?
 ![image](https://user-images.githubusercontent.com/105695077/176731523-43119866-767c-484f-ac48-c6c520446a8c.png)
+
+![image](https://user-images.githubusercontent.com/105695077/176733448-cea82891-417f-4a06-bd43-51af010bc36a.png)
 
 52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
 ![image](https://user-images.githubusercontent.com/105695077/176731601-20e8ff26-8cdc-4499-996c-dff0430d955a.png)
 
+![image](https://user-images.githubusercontent.com/105695077/176733477-b773d64c-102b-4004-a4fa-efdd44ef16c9.png)
+
 54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
 ![image](https://user-images.githubusercontent.com/105695077/176731676-84b3eb86-f179-4d44-8647-87149bfc55ad.png)
+
+![image](https://user-images.githubusercontent.com/105695077/176733503-8de7305b-dd19-4091-b53a-ddee5a21dfd2.png)
 
 Capitulo 8:
 
