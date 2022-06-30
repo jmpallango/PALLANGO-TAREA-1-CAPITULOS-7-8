@@ -287,7 +287,7 @@ Para cada uno de los circuitos de la figura 8-76, determine el equivalente de Th
  ![image](https://user-images.githubusercontent.com/105695077/176735000-8a05de04-b6ae-4697-9510-9cec92f12843.png)
 ![image](https://user-images.githubusercontent.com/105695077/176735029-ada0144b-48e4-4b39-ba49-570f16905d9d.png)
 
-20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80.
+Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kΩ, 5 kΩ, y 10 kΩ en la figura 8-80.
 ![image](https://user-images.githubusercontent.com/105695077/176735097-8ba00684-0b55-464b-95a1-14acaeba6b6e.png)
 
 Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales A y B.
